@@ -1,7 +1,7 @@
 ![Alt](https://lh4.googleusercontent.com/-PVw-ZUM9vV8/UuWeH51os0I/AAAAAAAAD6M/0Ikg7viJftQ/w1286-h566-no/hackathon-starter-logo.jpg)
 Hackathon Starter [![Dependency Status](https://david-dm.org/sahat/hackathon-starter.svg)](https://david-dm.org/sahat/hackathon-starter) [![Build Status](https://travis-ci.org/sahat/hackathon-starter.svg?branch=master)](https://travis-ci.org/sahat/hackathon-starter) [![Analytics](https://ga-beacon.appspot.com/UA-47447818-2/hackathon-starter?pixel)](https://github.com/igrigorik/ga-beacon)
 =======================
-
+<h1>Git is pain.</h1>
 :octocat: &nbsp;**Live Demo**: http://hackathonstarter.herokuapp.com 
 
 Jump to [What's new in 2.3.3?](#changelog)
